@@ -3,11 +3,11 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
+- NOM : Batista Balanche
+- PRÉNOM : Nathan
+- GROUPE : A1
 - URL du site :
-- URL FIGMA :
+- URL FIGMA : https://www.figma.com/design/uD5dvmMKoQB07NLYTjbRRU/SA%C3%89-103?node-id=0-1&t=Ve3VspzyZ908OJG3-1
 
 ## Sujet
 
