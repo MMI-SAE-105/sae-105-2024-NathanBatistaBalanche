@@ -17,7 +17,7 @@
 .html__class {
     margin: 0px;
     width: 393px;
-    height: 4303px;
+    height: auto;
     background: var(--Gray-1, #DDD);
 }
 

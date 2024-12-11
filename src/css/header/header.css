@@ -4,7 +4,7 @@
     align-items: flex-start;
 }
 
-.festivhalloween__title {
+.header__festivhalloween__title {
     color: var(--Gray-1, #DDD);
     font-family: "Nosifer";
     font-size: 20px;
