@@ -7,4 +7,5 @@
 @import "footer/footer.css";
 
 /* Importation des fichiers du dossier header */
-@import "header/header.css"
+@import "header/header.css";
+@import "header/header_mobile.css"

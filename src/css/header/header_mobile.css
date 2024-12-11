@@ -1,0 +1,38 @@
+.header__logo {
+    width: 48px;
+    height: 48.052px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    margin-bottom : 11px;
+    margin-top: 11px;
+    margin-left: 15px;
+    margin-right: 228px;
+}
+
+.header__icon__search {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    margin-top: 21px;
+    margin-bottom: 21.74px;
+    margin-right: 22px;
+}
+
+.header__icon__menu {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    margin-bottom: 19px;
+}
+
+.header__mobile {
+    background: var(--Orange-1, #FE603F);
+    width: 393px;
+    height: 70px;
+    flex-shrink: 0;
+    margin-top: -11px;
+    margin-left: -8px;
+
+}
