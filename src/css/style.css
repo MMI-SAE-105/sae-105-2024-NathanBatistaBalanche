@@ -4,6 +4,7 @@
 /* Importation des fichiers du dossier body */
 @import "body/body.css";
 @import "body/cards.css";
+@import "body/carroussel.css";
 
 /* Importation des fichiers du dossier footer */
 @import "footer/footer.css";
@@ -15,6 +16,7 @@
 
 
 .html__class {
+    max-width: 100%;
     height: auto;
     background: var(--Gray-1, #DDD);
 }
