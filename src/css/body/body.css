@@ -1,3 +1,45 @@
+.body {
+    margin-left: 8px;
+    margin-right: 2px;
+}
+
+.body__title {
+    color: var(--Black-3, #030303);
+    font-family: "Hammersmith One";
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.body__text {
+    color: var(--Black-3, #030303);
+    font-family: "Fredoka";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right:14px;
+}
+
+.body__little__title {
+    color: var(--Black-3, #030303);
+    font-family: "Fredoka";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
 .body__bold {
     font-weight: bold;
+}
+
+.body__img {
+    width: 351px;
+    height: 251.34px;
+    flex-shrink: 0;
+    margin-left: 13px;
+    margin-right:19px;
 }
