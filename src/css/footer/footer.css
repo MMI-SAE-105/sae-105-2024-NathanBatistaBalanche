@@ -1,7 +1,6 @@
 .footer__class {
     background: var(--Black-2, #252525);
     display: flex;
-    width: 393px;
     margin-top:0px
 }
 
@@ -37,7 +36,6 @@
 .footer__festivhalloween__title {
     color: var(--Orange-2, #FF2C00);
     font-family: "Nosifer";
-    font-size: 20px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;

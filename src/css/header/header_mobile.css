@@ -7,8 +7,8 @@
     flex-shrink: 0;
     margin-bottom : 11px;
     margin-top: 11px;
-    margin-left: 15px;
-    margin-right: 228px;
+    position: absolute;
+    margin-left: 3%;
 }
 
 .header__icon__search {
@@ -17,7 +17,8 @@
     flex-shrink: 0;
     margin-top: 21px;
     margin-bottom: 21.74px;
-    margin-right: 22px;
+    position:absolute;
+    margin-left: 80%;
 }
 
 .header__icon__menu {
@@ -26,11 +27,11 @@
     flex-shrink: 0;
     margin-bottom: 19px;
     margin-top : 19px;
+    margin-left: 90%;
 }
 
 .header__mobile {
     background: var(--Orange-1, #FE603F);
-    width: 393px;
-    height: 70px;
+    width : 100%;
     flex-shrink: 0;
 }

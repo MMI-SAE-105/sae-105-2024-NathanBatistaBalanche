@@ -15,9 +15,10 @@
 
 
 .html__class {
-    margin: 0px;
-    width: 393px;
     height: auto;
     background: var(--Gray-1, #DDD);
 }
 
+img {
+    max-width: 100%
+}

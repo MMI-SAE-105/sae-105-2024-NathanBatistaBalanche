@@ -7,7 +7,6 @@
 .header__festivhalloween__title {
     color: var(--Gray-1, #DDD);
     font-family: "Nosifer";
-    font-size: 20px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
@@ -18,8 +17,8 @@
 }
 
 .header__img {
-    width: 393px;
-    height: 424px;
+    width:100%;
+    height: auto;
     flex-shrink: 0;
 }
 
@@ -31,7 +30,7 @@
     font-weight: 400;
     line-height: normal;
     position : absolute;
-    margin-top: 331px;
+    margin-top: 60%;
     margin-left: 30px;
     margin-bottom: 30px;
     margin-right: 45px;

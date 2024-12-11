@@ -42,10 +42,23 @@
 }
 
 .body__img {
-    width: 351px;
-    height: 251.34px;
+    width:80%;
+    height:auto;
     flex-shrink: 0;
-    margin-left: 21px;
-    margin-right:21px;
+    margin-left: 10%;
+    margin-right:10%;
     margin-bottom: 15.66px;
+}
+
+.body__semi__title {
+    color: var(--Black-3, #030303);
+    font-family: "Fredoka";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 8px;
+    margin-top: 0px;
+    margin-right: 8px;
+    margin-bottom: 16px;
 }
