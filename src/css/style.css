@@ -1,3 +1,5 @@
+/* Importation des fichiers du dossier normalize */
+@import "normalize/normalize.css";
 
 /* Importation des fichiers du dossier body */
 @import "body/body.css";
@@ -10,8 +12,12 @@
 @import "header/header.css";
 @import "header/header_mobile.css";
 
+
+
 .html__class {
     margin: 0px;
     width: 393px;
     height: 4303px;
+    background: var(--Gray-1, #DDD);
 }
+

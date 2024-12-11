@@ -1,0 +1,66 @@
+.card__class {
+    margin-bottom : 80px;
+}
+
+.card__img {
+    width: 327px;
+    height: 250px;
+}
+
+.card__block {
+    position: absolute;
+    display: flex;
+    width: 282px;
+    max-width: 282px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 1px;
+    border: 1px solid #000;
+    background: var(--Gray-1, #DDD);
+    margin-left:45px;
+    margin-top:-88px;
+}
+
+.card__title {
+    align-self: stretch;
+    color: var(--Black-3, #030303);
+    font-family: "Hammersmith One";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 10px;
+    margin-top: 7px;
+    margin-bottom: 0px;
+    margin-left:10px;
+}
+
+.card__text {
+    align-self: stretch;
+    color: var(--Black-3, #030303);
+    font-family: Fredoka;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left:10px;
+}
+
+.card__link {
+    color: var(--Black-3, #030303);
+    text-align: center;
+    font-family: Fredoka;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom:7px;
+    margin-left:10px;
+}
+
+.card__line {
+    width: 112px;
+    height: 1px;
+}
