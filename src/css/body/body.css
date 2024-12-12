@@ -24,6 +24,11 @@
     margin-left:8px;
 }
 
+.body__list {
+    margin-bottom:30px;
+    margin-left:40px;
+}
+
 .body__little__title {
     color: var(--Black-3, #030303);
     font-family: "Fredoka";
@@ -61,4 +66,15 @@
     margin-top: 0px;
     margin-right: 8px;
     margin-bottom: 16px;
+}
+
+.body__small__text {
+    color: var(--Black-3, #030303);
+    font-family: Fredoka;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+    margin-left: 36px;
 }
