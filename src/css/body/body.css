@@ -29,6 +29,19 @@
     margin-left:40px;
 }
 
+.body__text__list{
+    color: var(--Black-3, #030303);
+    font-family: "Fredoka";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right:8px;
+    margin-top:0px;
+    margin-bottom:4px;
+    margin-left:8px;
+}
+
 .body__little__title {
     color: var(--Black-3, #030303);
     font-family: "Fredoka";
@@ -77,4 +90,30 @@
     line-height: normal;
     margin-top: -10px;
     margin-left: 36px;
+}
+
+.body__btn {
+    display: inline-flex;
+    padding: 14px 18px;
+    align-items: center;
+    gap: 24px;
+    border-radius: 20px;
+    background: var(--Orange-1, #FE603F);
+    margin-left: 9%;
+    margin-bottom: 24px;
+}
+
+.body__btn__img {
+    width: 28px;
+    height: auto;
+}
+
+.body__btn__text {
+    color: var(--Black-1, #181818);
+    font-family: Fredoka;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
 }
