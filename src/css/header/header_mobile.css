@@ -34,4 +34,7 @@
     background: var(--Orange-1, #FE603F);
     width : 100%;
     flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
 }

@@ -1,49 +1,16 @@
-.carousel {
-    position: relative;
-    width: 80%;
-    max-width: 800px;
-    overflow: hidden;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
+@import "carousel/J1/carousel1.css";
+@import "carousel/J1/carousel2.css";
+@import "carousel/J1/carousel3.css";
+@import "carousel/J1/carousel4.css";
+@import "carousel/J2/carousel5.css";
+@import "carousel/J2/carousel6.css";
+@import "carousel/J2/carousel7.css";
+@import "carousel/J2/carousel8.css";
+@import "carousel/J3/carousel9.css";
+@import "carousel/J3/carousel10.css";
+@import "carousel/J3/carousel11.css";
+@import "carousel/J3/carousel12.css";
 
-.carousel {
-    display: flex;
-    transition: transform 0.5s ease-in-out;
-}
-
-.body__carousel {
-    margin-left: 10px;
-    margin-bottom: 20px;
-}
-
-.carousel img {
-    width: 100%;
-    flex-shrink: 0;
-}
-
-button {
-    position: absolute;
-    transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    border: none;
-    cursor: pointer;
-    padding: 10px 20px;
-    font-size: 18px;
-    z-index: 10;
-    border-radius: 50%;
-    user-select: none;
-}
-
-button:hover {
-    background-color: #FE603F
-}
-
-.button__prev {
-    left: 10px;
-}
-
-.button__next {
-    right: 10px;
+[class^="body__carousel__"] {
+    margin-left: 20%;
 }
