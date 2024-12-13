@@ -140,3 +140,26 @@
     margin-left:17vw;
     margin-bottom:10px;
 }
+
+.body__input {
+    background-color: #DDD;
+    border:none;
+    color: var(--Black-3, #030303);
+    font-family: "Fredoka";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left:8px;
+    margin-top:-8px;
+    margin-bottom: 10px;
+}
+
+.body__questionnaire {
+    margin-left:20px;
+}
+
+.body__line {
+    width:400px;
+    transform: translateX(-10px);
+}
