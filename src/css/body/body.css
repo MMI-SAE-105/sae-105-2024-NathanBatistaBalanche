@@ -137,6 +137,8 @@
 }
 
 .body__video {
+    border: 5px solid #FE603F;
+    border-radius: 10px;
     margin-left:17vw;
     margin-bottom:10px;
 }
