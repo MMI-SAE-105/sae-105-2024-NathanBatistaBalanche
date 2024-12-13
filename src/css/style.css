@@ -13,7 +13,8 @@
 @import "header/header.css";
 @import "header/header_mobile.css";
 
-
+/* Importation des fichiers du dossier menu */
+@import "menu/menu.css";
 
 .html__class {
     max-width: 100%;

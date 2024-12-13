@@ -24,10 +24,6 @@
 .header__icon__menu {
     width: 32px;
     height: 32px;
-    flex-shrink: 0;
-    margin-bottom: 19px;
-    margin-top : 19px;
-    margin-left: 90%;
 }
 
 .header__mobile {
